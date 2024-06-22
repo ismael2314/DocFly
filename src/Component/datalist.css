@@ -1,0 +1,9 @@
+#filters{
+    height: 370px;
+    overflow-y: auto;
+}
+.card{
+    transition: all;
+    transform: translate(0);
+    cursor: pointer;
+}
